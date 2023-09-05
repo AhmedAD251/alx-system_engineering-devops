@@ -1,1 +1,1 @@
-print hello readme
+This is readme file of redirections
